@@ -13,13 +13,13 @@ If you are feeling generous, and would like to support my work, you can do so th
 ### Method 1
 
 -   Start up Foundry and click "Install Module" in the "Add-On Modules" tab.
--   Paste the link: `https://raw.githubusercontent.com/Cyr-/FoundryVTT-BetterRollsSW5e/master/betterrollsSW5e/module.json`
+-   Paste the link: `https://raw.githubusercontent.com/Cyr-/FoundryVTT-BetterRollsSW5e/master/betterrollssw5e/module.json`
 -   Click "Install" and it should appear in your modules list.
 -   Enjoy!
 
 ### Method 2
 
--   Download the [.zip file](https://github.com/Cyr-/FoundryVTT-BetterRollsSW5e/raw/master/betterrollsSW5e.zip) in this repository.
+-   Download the [.zip file](https://github.com/Cyr-/FoundryVTT-BetterRollsSW5e/raw/master/betterrollssw5e.zip) in this repository.
 -   Extract the contents of the zip in `\resources\app\public\modules\`
 -   Restart Foundry.
 -   Enjoy!
