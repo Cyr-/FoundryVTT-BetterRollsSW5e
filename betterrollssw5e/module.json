@@ -1,0 +1,61 @@
+{
+    "name": "betterrollssw5e",
+    "title": "Better Rolls for SW5e",
+    "description": "This module overhauls rolls for the SW5e system, allowing \"dual rolls\" for d20 rolls, buttons that support full output to chat, and customization for said outputs.",
+    "minimumCoreVersion": "0.7.7",
+    "compatibleCoreVersion": "0.7.7",
+    "version": "1.2.0",
+    "author": "Red Reign#5128",
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "fr",
+            "name": "Français (French)",
+            "path": "lang/fr.json"
+        },
+        {
+            "lang": "es",
+            "name": "Español (Spanish)",
+            "path": "lang/es.json"
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Português (Brasil)",
+            "path": "lang/pt-BR.json"
+        },
+        {
+            "lang": "de",
+            "name": "Deutsch (German)",
+            "path": "lang/de.json"
+        },
+        {
+            "lang": "ja",
+            "name": "日本語 (Japanese)",
+            "path": "lang/ja.json"
+        },
+        {
+            "lang": "ko",
+            "name": "한국어 (Korean)",
+            "path": "lang/ko.json"
+        }
+    ],
+    "systems": ["sw5e", "SW5E"],
+    "esmodules": [
+        "./scripts/betterrollssw5e.js",
+        "./scripts/custom-roll.js",
+        "./scripts/init.js",
+        "./scripts/chat-message.js",
+        "./scripts/utils.js",
+        "./scripts/hooks.js",
+        "./scripts/item-tab.js"
+    ],
+    "styles": ["./css/betterrollssw5e.css"],
+    "packs": [],
+    "url": "https://github.com/Cyr-/FoundryVTT-BetterRollsSW5e/tree/master/betterrollssw5e",
+    "manifest": "https://raw.githubusercontent.com/Cyr-/FoundryVTT-BetterRollsSW5e/master/betterrollssw5e/module.json",
+    "download": "https://github.com/Cyr-/FoundryVTT-BetterRollsSW5e/raw/v1.2.0/betterrollssw5e.zip"
+}
